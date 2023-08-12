@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 🤝 I’m looking for help in learning about JavaScript and Express.js
-  
 - 📫 How to reach me **priyajotgill@gmail.com**
 
 
